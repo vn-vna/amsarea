@@ -26,7 +26,7 @@ export default function AdminLayout() {
               <Link to="users">Users</Link>
             </Sidebar.Item>
             <Sidebar.Item icon={HiViewBoards}>
-              <Link to="users">Products</Link>
+              <Link to="products">Products</Link>
             </Sidebar.Item>
             <Sidebar.Item icon={HiShoppingBag}>
               <Link to="orders">Orders</Link>
